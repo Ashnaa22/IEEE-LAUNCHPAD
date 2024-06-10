@@ -2,7 +2,7 @@
 
 ### About Me
 
-> I'm a Computer Science and Engineering graduate proficient in Python, with a strong interest in backend development using Django. My skills  spans full-stack development, including HTML, CSS, and MySQL. I have a solid foundation in python and have honed my skills through internships and personal projects.I am also knowledgeable in programming languages like Java and C. I am committed to leveraging my technical abilities to develop robust and efficient web applications.
+> I'm a Computer Science and Engineering graduate proficient in Python, with a strong interest in backend development using Django. My skills  spans  HTML, CSS, and MySQL. I have a solid foundation in python and have honed my skills through internships and personal projects.I am also knowledgeable in programming languages like Java and C. I am committed to leveraging my technical abilities to develop robust and efficient web applications.
 ---
 
 ## My Projects
